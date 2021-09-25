@@ -18,7 +18,7 @@ echo'<ul>
 	<li><a href="view.php">View Data</a></li>
 </ul>';
 }
-echo'<li><a href="logout.php">Logout</a></li>';
+echo'<li><a href="logout.php">Click  to Logout</a></li>';
 ?>
 </body>
 </html>
